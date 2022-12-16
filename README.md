@@ -2,7 +2,7 @@
 
 Link to Deployed Website
 
-If you used the stencil code, this is https://procrastinatingpanda822.github.io/react-stencil
+If you used the stencil code, this is https://procrastinatingpanda822.github.io/development-real
 
 Goal and Value of the Application
 
